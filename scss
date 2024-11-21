@@ -1,0 +1,17 @@
+employee-management
+│
+├── client (React Frontend)
+│   ├── public
+│   ├── src
+│       ├── components (Reusable components)
+│       ├── pages (Page-specific components)
+│       ├── services (API calls)
+│       ├── App.js
+│       └── index.js
+│
+└── server (Node.js Backend)
+    ├── models
+    ├── routes
+    ├── controllers
+    ├── config
+    └── server.js
